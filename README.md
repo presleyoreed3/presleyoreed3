@@ -8,7 +8,7 @@ With my background in layouts and graphic designing, I find I have a strong visi
 
 Passions outside of programming include lots of gaming, Lego building, reading history(I was a history minor in college), and exploring the wonderful Forrests of the Pacific Northwest.
 
-### Latest Projects
+## Latest Projects
 <details>
 <summary>Jitters ☕️</summary>
 <br>
@@ -40,12 +40,15 @@ Startoff is a clone of the popular crowdfunding site Kickstarter. Written with R
 </details>
 <br>
 
+## GitHub Stats
 [![Presley's GitHub stats](https://github-readme-stats.vercel.app/api?username=presleyoreed3&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=presleyoreed3&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Other Stuff
 - 🔭 I’m currently working on developing my Jitters JavaScript app for iOS
 - 🌱 I’m currently learning more Python and trying to improve my React / Redux
 - 📫 How to reach me: presleyoreed3@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a desk in my house solely devoted to building legos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=presleyoreed3&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
