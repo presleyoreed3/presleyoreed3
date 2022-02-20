@@ -42,7 +42,7 @@ Startoff is a clone of the popular crowdfunding site Kickstarter. Written with R
 
 ## GitHub Stats
 [![Presley's GitHub stats](https://github-readme-stats.vercel.app/api?username=presleyoreed3&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=presleyoreed3&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=presleyoreed3&theme=vue-dark&layout=compact&exclude_repo=app-academy-classwork,cohort-resources,app-academy-homework)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Other Stuff
 - 🔭 I’m currently working on developing my Jitters JavaScript app for iOS
