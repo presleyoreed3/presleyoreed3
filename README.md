@@ -46,7 +46,8 @@ Startoff is a clone of the popular crowdfunding site Kickstarter. Written with R
 
 ## Other Stuff
 - 🔭 I’m currently working on developing my Jitters JavaScript app for iOS
-- 🌱 I’m currently learning more Python and trying to improve my React / Redux
+- 🌱 I’m currently going through Structy to keep up my skills in JS
+- 📗 Currently reading Cracking the Coding Interview
 - 📫 How to reach me: presleyoreed3@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a desk in my house solely devoted to building legos.
